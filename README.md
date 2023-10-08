@@ -1,4 +1,8 @@
-# React + Vite
+# React Frontend
+
+RUN:
+npm install
+npm run dev - in debug mode
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
